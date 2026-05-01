@@ -1,0 +1,35 @@
+PRODUCT SALES REPORT
+====================
+
+ID: 1
+Product: Laptop
+Quantity: 30
+Price: 150000.0
+Revenue: 4500000.0
+----------------------
+ID: 2
+Product: Keyboard
+Quantity: 150
+Price: 7800.0
+Revenue: 1170000.0
+----------------------
+ID: 3
+Product: Mouse
+Quantity: 200
+Price: 14000.0
+Revenue: 2800000.0
+----------------------
+ID: 4
+Product: Monitor
+Quantity: 50
+Price: 50000.0
+Revenue: 2500000.0
+----------------------
+ID: 5
+Product: Headphone
+Quantity: 170
+Price: 20000.0
+Revenue: 3400000.0
+----------------------
+
+Total Revenue: 14370000.0
